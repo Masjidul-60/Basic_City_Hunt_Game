@@ -1,0 +1,6 @@
+{
+  "name": "Campus Striker: Anime Sniper & Combat Arena",
+  "description": "High-octane anime campus fighting and tactical sniper combat game featuring melee combos, sniper scope elimination, synthetic music engine, and customizable fighters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
